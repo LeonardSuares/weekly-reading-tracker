@@ -4,6 +4,7 @@
 A collection of utility-focused applications built with Python, Pandas, and Streamlit, emphasizing data persistence, logic-based tracking, and specialized data serialization.
 
 📖 Weekly Bible Reading Trackers
+
 **The Problem:** Standard reading plans are passive. **The Solution:** A two-tier tracking system that turns personal habits into quantifiable data.
 
 **Technical Highlights:**
